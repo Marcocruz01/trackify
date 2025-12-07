@@ -1,4 +1,4 @@
-# ![Banner de Trackify](./icon_logo.png) Trackify - Control de Finanzas Personales 
+# ![logo](./public/icon_logo.png) Trackify - Control de Finanzas Personales 
 
 Trackify es una aplicación web moderna para administrar tus ingresos y gastos de manera sencilla, visual y eficiente.
 Construida con React + TypeScript, utiliza ContextAPI + Reducer para un manejo global del estado, ofreciendo un rendimiento óptimo y una arquitectura escalable.
