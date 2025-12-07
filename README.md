@@ -13,7 +13,8 @@ Construida con React + TypeScript, utiliza ContextAPI + Reducer para un manejo g
 - Balance general actualizado en tiempo real.
 - Estado global administrado con ContextAPI + Reducer.
 - Rápida y ligera gracias a Vite.
-- Uso de la libreria de HeadlesUI.
+- Libreria de HeadlesUI para animaciones y ventanas modales.
+- Libreria de react-swipeable-list.
 - Interfaz moderna hecha con Tailwind CSS.
 - Diseño responsivo optimizado para móvil y escritorio.
 - Persistencia local datos guardados en LocalStorage.
