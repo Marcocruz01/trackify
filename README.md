@@ -35,4 +35,5 @@ Construida con React + TypeScript, utiliza ContextAPI + Reducer para un manejo g
 
 
 ## Vista General
-
+![vista previa](./main-app.png).
+![vista previa](./tracker-app.png).
